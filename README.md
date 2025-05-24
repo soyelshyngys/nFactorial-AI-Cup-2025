@@ -1,9 +1,9 @@
 # nFactorial-Ai-Cup-2025
 Fork this repository and build nFactorial Ai Cup 2025 projects 
 
-## < Your Name >
+## < Shyngys Baizhan >
 
-## < Your App's Name >
+## < To be Added >
 
 ## < Your App's description, technical considerations, etc. >
 
